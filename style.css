@@ -7,7 +7,7 @@ body {
     background: #FAF8F6;
     position: relative; 
     color: #404E4D;
-    font-family: 'Space Grotesk', monospace;
+    font-family: 'Karla', monospace;
 }
 h1 {
     font-family: 'Archivo Black', sans-serif;
@@ -34,6 +34,7 @@ p {
     margin-top: 5px;
     margin-bottom: 25px;
     font-size: 15px;
+    font-weight: 300;
 }
 p a {
     color: #FDE74C;
