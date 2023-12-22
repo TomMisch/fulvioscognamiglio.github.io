@@ -79,6 +79,12 @@ img.holabarba {
     margin-bottom: 50px;
 }
 
+.container img {
+    width: 100%; /* Make the image take up the full width of its container */
+    height: auto; /* Maintain the image's aspect ratio */
+    display: block; /* Remove extra spacing or alignment issues */
+  }
+  
 .bio {
     background: #f54848;
 }
